@@ -1,0 +1,16 @@
+﻿@{
+    ViewData["Title"] = "Home Page";
+}
+
+<div class="text-center">
+    <h1 class="display-4">Welcome to first app</h1>
+    <p>Learn about <a href="https://learn.microsoft.com/aspnet/core">building Web apps with ASP.NET Core</a>.</p>
+    <a button type="button" class="btn btn-success" id="Btn" asp-area="" asp-controller="Login" asp-action="Login">Login Page</a>
+
+    <!--script to redirect to another webpage-->
+    <script> 
+        function navigateTologinPage() { 
+            window.location.href = "Login/login.cshtml"; 
+        } 
+    </script> 
+</div>

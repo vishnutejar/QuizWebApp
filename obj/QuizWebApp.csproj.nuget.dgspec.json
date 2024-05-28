@@ -1,0 +1,71 @@
+{
+  "format": 1,
+  "restore": {
+    "/Users/csadmin/WebsiteCode/QuizWebApp/QuizWebApp/QuizWebApp.csproj": {}
+  },
+  "projects": {
+    "/Users/csadmin/WebsiteCode/QuizWebApp/QuizWebApp/QuizWebApp.csproj": {
+      "version": "1.0.0",
+      "restore": {
+        "projectUniqueName": "/Users/csadmin/WebsiteCode/QuizWebApp/QuizWebApp/QuizWebApp.csproj",
+        "projectName": "QuizWebApp",
+        "projectPath": "/Users/csadmin/WebsiteCode/QuizWebApp/QuizWebApp/QuizWebApp.csproj",
+        "packagesPath": "/Users/csadmin/.nuget/packages/",
+        "outputPath": "/Users/csadmin/WebsiteCode/QuizWebApp/QuizWebApp/obj/",
+        "projectStyle": "PackageReference",
+        "configFilePaths": [
+          "/Users/csadmin/.nuget/NuGet/NuGet.Config"
+        ],
+        "originalTargetFrameworks": [
+          "net8.0"
+        ],
+        "sources": {
+          "/usr/local/share/dotnet/library-packs": {},
+          "https://pkgs.dev.azure.com/westpharmaceutical/b0533f90-f5ce-4d2b-894b-85b1cad639ce/_packaging/WestDigital.Actions.MAUI.Nuget.Dev/nuget/v3/index.json": {},
+          "https://westpharmaceutical.pkgs.visualstudio.com/b0533f90-f5ce-4d2b-894b-85b1cad639ce/_packaging/WestDigital.EnterpriseUX.MAUI.Nuget/nuget/v3/index.json": {}
+        },
+        "frameworks": {
+          "net8.0": {
+            "targetAlias": "net8.0",
+            "projectReferences": {}
+          }
+        },
+        "warningProperties": {
+          "warnAsError": [
+            "NU1605"
+          ]
+        },
+        "restoreAuditProperties": {
+          "enableAudit": "true",
+          "auditLevel": "low",
+          "auditMode": "direct"
+        }
+      },
+      "frameworks": {
+        "net8.0": {
+          "targetAlias": "net8.0",
+          "imports": [
+            "net461",
+            "net462",
+            "net47",
+            "net471",
+            "net472",
+            "net48",
+            "net481"
+          ],
+          "assetTargetFallback": true,
+          "warn": true,
+          "frameworkReferences": {
+            "Microsoft.AspNetCore.App": {
+              "privateAssets": "none"
+            },
+            "Microsoft.NETCore.App": {
+              "privateAssets": "all"
+            }
+          },
+          "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/8.0.300/PortableRuntimeIdentifierGraph.json"
+        }
+      }
+    }
+  }
+}
