@@ -28,3 +28,4 @@
 /Users/csadmin/WebsiteCode/QuizWebApp/QuizWebApp/obj/Debug/net8.0/QuizWebApp.pdb
 /Users/csadmin/WebsiteCode/QuizWebApp/QuizWebApp/obj/Debug/net8.0/QuizWebApp.genruntimeconfig.cache
 /Users/csadmin/WebsiteCode/QuizWebApp/QuizWebApp/obj/Debug/net8.0/ref/QuizWebApp.dll
+/Users/csadmin/WebsiteCode/QuizWebApp/QuizWebApp/obj/Debug/net8.0/QuizWebApp.sourcelink.json
